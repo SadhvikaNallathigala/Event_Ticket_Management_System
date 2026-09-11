@@ -5,7 +5,7 @@ A backend application for managing events, ticket bookings, payments, cancellati
 The system is developed using **Java, Spring Boot, Spring Data JPA, MySQL, Maven, and Lombok** with a modular feature-based architecture.
 
 ---      
-
+ 
 ## 📌 Project Overview
 
 The **Event Ticket Management System** provides a complete backend workflow for creating and managing events and allowing users to register, browse events, book tickets, make payments, view bookings, and cancel tickets.
