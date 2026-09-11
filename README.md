@@ -3,7 +3,7 @@
 A backend application for managing events, ticket bookings, payments, cancellations, refunds, and seat availability.
 
 The system is developed using **Java, Spring Boot, Spring Data JPA, MySQL, Maven, and Lombok** with a modular feature-based architecture.
-
+ 
 ---       
  
 ## 📌 Project Overview
