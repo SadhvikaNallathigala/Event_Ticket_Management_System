@@ -4,7 +4,7 @@ A backend application for managing events, ticket bookings, payments, cancellati
 
 The system is developed using **Java, Spring Boot, Spring Data JPA, MySQL, Maven, and Lombok** with a modular feature-based architecture.
  
----             
+---              
  
 ## 📌 Project Overview
 
